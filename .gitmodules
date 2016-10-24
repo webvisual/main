@@ -1,9 +1,9 @@
 [submodule "auth-server"]
 	path = auth-server
 	url = https://github.com/webvisual/auth-server
-[submodule "server"]
-	path = server
-	url = https://github.com/webvisual/server
+[submodule "data-server"]
+	path = data-server
+	url = https://github.com/webvisual/data-server
 [submodule "reverse-proxy"]
 	path = reverse-proxy
 	url = https://github.com/webvisual/reverse-proxy
