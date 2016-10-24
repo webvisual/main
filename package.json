@@ -1,0 +1,19 @@
+{
+  "name": "webvisual",
+  "version": "0.5.0",
+  "description": "Webvisual Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webvisual/project.git"
+  },
+  "author": " <fooloomanzoo>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webvisual/project/issues"
+  },
+  "homepage": "https://github.com/webvisual/project#readme"
+}
