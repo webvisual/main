@@ -3,7 +3,7 @@
 	url = https://github.com/webvisual/auth-server
 [submodule "data-server"]
 	path = data-server
-	url = https://github.com/webvisual/data-server
+	url = https://github.com/webvisual/data-server.git
 [submodule "reverse-proxy"]
 	path = reverse-proxy
 	url = https://github.com/webvisual/reverse-proxy
