@@ -1,0 +1,15 @@
+[submodule "auth-server"]
+	path = auth-server
+	url = https://github.com/webvisual/auth-server
+[submodule "server"]
+	path = server
+	url = https://github.com/webvisual/server
+[submodule "reverse-proxy"]
+	path = reverse-proxy
+	url = https://github.com/webvisual/reverse-proxy
+[submodule "custom-elements"]
+	path = custom-elements
+	url = https://github.com/webvisual/custom-elements
+[submodule "gui"]
+	path = gui
+	url = https://github.com/webvisual/gui
